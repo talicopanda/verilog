@@ -31,5 +31,5 @@ This repository features multiple necessary circuitry for any Computer System Or
     - Calculates the value of the polynomial Ax^2 + Bx + C with a intercommunicating datapath and control unit
 - _ram32x4.v_
      - Simulates a 32x4 Random Access Memory
-- _square_animation.v_
-    - (In VGA_monitor_projects folder) Animates a colored square bouncing around the screen
+- _square_animation.v_ (In VGA_monitor_projects folder)
+    - Animates a colored square bouncing around the screen
