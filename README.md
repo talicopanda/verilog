@@ -3,7 +3,7 @@ Studies in Verilog
 
 This repository features multiple necessary circuitry for any Computer System Organization. The files include:
 
- Markup : * _mux2to1.v_
+          * _mux2to1.v_
               * A 2 to 1 mutiplexer
           * _mux4to1.v_
               * A 4 to 1 multiplexer made from 2 to 1 multiplexers
